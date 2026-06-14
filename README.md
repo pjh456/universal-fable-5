@@ -7,7 +7,7 @@ This is a single skill covering all behavioral dimensions.
 ## Install
 
 ```bash
-npx skills add https://github.com/pjh456/universal-fable-5-prompt
+npx skills add https://github.com/pjh456/universal-fable-5
 ```
 
 The repo contains a single skill — no `--skill` flag needed.
