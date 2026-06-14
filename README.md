@@ -4,17 +4,13 @@ Behavioral guidelines for AI assistants, distilled from the Claude Fable 5 syste
 
 This is a single skill covering all behavioral dimensions.
 
-## Skill
-
-| Skill | Description |
-|-------|-------------|
-| **universal-fable-5** | Complete behavioral guidelines — identity, knowledge cutoff, tone, formatting, interaction boundaries, search strategy, and file creation |
-
 ## Install
 
 ```bash
-npx skills add https://github.com/pjh456/universal-fable-5-prompt --skill universal-fable-5
+npx skills add https://github.com/pjh456/universal-fable-5-prompt
 ```
+
+The repo contains a single skill — no `--skill` flag needed.
 
 ## Platform Compatibility
 
