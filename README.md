@@ -1,4 +1,4 @@
-# Universal Fable 5 Prompt — Agent Skills
+# Universal Fable 5 — Agent Skill
 
 Behavioral guidelines for AI assistants, distilled from the Claude Fable 5 system prompt and packaged as an installable agent skill. Platform-agnostic — works with any LLM.
 
